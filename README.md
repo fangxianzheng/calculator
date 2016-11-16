@@ -1,18 +1,7 @@
-# vue-test
+# vuex2.0 实践、案例，用vue2.0和vuex2.0写一个计算器，目的是加深vuex2.0的理解
 
-> A Vue.js project
+##运行方式：
+  *下载或clone 
+  *解压node_modules.zip依赖包（之所以不用npm install是因为最近vue的依赖包似乎有问题，跑不起来)
+  *运行npm run dev 也可以运行 npm run build 生成项目后用anywhere启动一个本地服务器。
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
